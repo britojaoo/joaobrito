@@ -33,6 +33,12 @@ Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate
 
 ---
 
+## 📫 How to reach me:
+- 📧 **Email**: contatojoaolanhouse@gmail.com
+- 💼 **LinkedIn**:  https://www.linkedin.com/in/engcomp-jo%C3%A3o-brito/
+- 🌐 **Portfolio**: [Coming soon]
+
+
 **Made in Brazil** 🇧🇷
 
 <br />
