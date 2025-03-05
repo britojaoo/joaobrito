@@ -16,7 +16,7 @@ Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate
 
 ---
 
-### 📌 WebFlux - Front-End Focused Web Agency  
+### 📌 WebFlux - Web Agency  
 > A **web development agency** specialized in creating modern and responsive **landing pages** and **static websites**, tailored for businesses looking for a strong online presence.  
 > Focused on fast delivery, SEO optimization, and visual identity aligned with client branding.  
 - **Technologies:** HTML5, CSS3, JavaScript, React.js, Vue.js  
